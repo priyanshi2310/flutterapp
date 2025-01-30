@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const Practice13(),
+      home: const Practice13(),
     );
     // return CupertinoApp(
     //   home: CupertinoDailogueScreen(),
