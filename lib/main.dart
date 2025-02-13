@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/practice10.dart';
-import 'package:flutter_application_1/practice12.dart';
+
 import 'package:flutter_application_1/practice13.dart';
 // import 'package:flutter_application_1/practice13.dart';
 // import 'package:flutter_application_1/practice5.dart';
