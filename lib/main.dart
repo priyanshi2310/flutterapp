@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/login_screen.dart';
 // import 'package:flutter_application_1/pagenitation.dart';
-import 'package:flutter_application_1/ratin1.dart';
-
+// import 'package:flutter_application_1/pagenitation.dart';
+// import 'package:flutter_application_1/ratin1.dart';
 
 // import 'package:flutter_application_1/practice13.dart';
 // import 'package:flutter_application_1/practice5.dart';
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const RatingScreen(),
+      home: const LoginScreen(),
       // home: const Practice13(),
     );
     // return CupertinoApp(
