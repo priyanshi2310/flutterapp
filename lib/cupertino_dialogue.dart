@@ -74,13 +74,13 @@ class _CupertinoDailogueScreenState extends State<CupertinoDailogueScreen> {
                           onPressed: () {
                             Navigator.pop(context, 'CANCEL');
                           },
-                          child: const Text('YES'),
+                          child: const Text('CANCEL'),
                         ),
                         TextButton(
                           onPressed: () {
                             Navigator.pop(context, 'OK');
                           },
-                          child: const Text('NO'),
+                          child: const Text('OK'),
                         ),
                       ],
                     );
